@@ -71,3 +71,5 @@ member on a larger joint porfolio project.
 By completing this exercise, both partners should have a better understanding
 of how to collaborate using Git and GitHub. Feel free to reach out to the instructor
 if you have any questions or need assistance during the exercise.
+
+Abi is the owner, David is the contributor. 
