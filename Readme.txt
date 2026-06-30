@@ -66,7 +66,7 @@ more practice with the Git collaboration workflow.
 Consider and discuss how you might use this process to work with your team
 member on a larger joint porfolio project.
 
-## Conclusion
+## Conclusion:
 
 By completing this exercise, both partners should have a better understanding
 of how to collaborate using Git and GitHub. Feel free to reach out to the instructor
